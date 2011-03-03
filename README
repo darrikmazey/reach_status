@@ -1,0 +1,31 @@
+
+* To add a task:
+
+./status.rb n[ew] some task description
+
+* To list tasks:
+
+./status.rb l[ist]
+
+* To start a task:
+
+./status.rb s[tart] <num>
+
+* To finish a task:
+
+./status.rb f[inish] <num>
+
+* To unstart a task:
+
+./status.rb u[nstart] <num>
+
+* To delete a task:
+
+./status.rb d[elete] <num>
+
+* To print status:
+
+./status.rb p
+
+(This copies status to the clipboard if you have xclip).
+
